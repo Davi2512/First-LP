@@ -112,7 +112,7 @@ nav ul a {
 }
 
 .spacing-menu {
-  height: 100px;
+  height: 77px;
 }
 
 .content-intro {
@@ -122,7 +122,7 @@ nav ul a {
   gap: var(--gap);
   color: var(--white-color);
   min-height: 100vh;
-  margin-bottom: -30rem;
+  margin-bottom: -50rem;
 }
 
 .content-intro-text, .intro-img {
