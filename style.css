@@ -291,6 +291,9 @@ button {
 .footer-content {
     display: flex;
     justify-content: space-between;
+    margin: 0 auto;
+    max-width: 120rem;
+    padding: 2rem;
 }
 
 .endress-footer {
