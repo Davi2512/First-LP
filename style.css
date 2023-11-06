@@ -122,7 +122,7 @@ nav ul a {
   gap: var(--gap);
   color: var(--white-color);
   min-height: 100vh;
-  margin-bottom: -30rem;
+  margin-bottom: -20rem;
 }
 
 .content-intro-text, .intro-img {
