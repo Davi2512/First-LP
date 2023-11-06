@@ -57,6 +57,11 @@ p {
   margin-top: 1rem;
   font-size: 2rem;
 }
+.footer-content div p {
+  margin-bottom: 1rem;
+  margin-top: 0.25rem;
+  font-size: 0.5rem;
+}
 h2 {
   font-size: 6rem;
 }
