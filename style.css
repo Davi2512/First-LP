@@ -294,6 +294,7 @@ button {
     margin: 0 auto;
     padding: 1rem;
     max-width: 120rem;
+    max-height: 200px;
 }
 
 .endress-footer {
