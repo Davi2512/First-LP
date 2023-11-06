@@ -290,5 +290,19 @@ button {
 }
 .footer-content {
     display: flex;
+    justify-content: space-between;
+}
+
+.endress-footer {
+    display: flex;
+    flex-direction: column;
+}
+.endress-footer div {
+    display: flex;
     justify-content: center;
+}
+.endress-footer div a {
+    display: flex;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
