@@ -288,4 +288,7 @@ button {
   font-size: 4rem;
   margin-top: 5rem;
 }
-
+.footer-content {
+    display: flex;
+    justify-content: center;
+}
