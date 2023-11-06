@@ -304,7 +304,7 @@ button {
     display: flex;
     justify-content: center;
 }
-.content-footer div p {
+.footer-content div p {
     padding: 1rem;
     margin: 1rem;
 }
